@@ -22,7 +22,7 @@ The results validate its ability to generate near-optimal scheduling solutions t
 
 
 <p align="center">
-<img src="flowchart.png" width="1100px" height="800px" />
+<img src="flowchart.png" width="1100px" height="700px" />
 </p>
 
 ## Getting started
