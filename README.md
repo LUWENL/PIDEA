@@ -5,7 +5,7 @@ Parallel Island Differential Evolutionary Algorithm (PIDEA) for multi-satellite 
 ### :bulb: Multi-Satellite Scheduling for Moving Targets Tracking Using Parallel Island Differential Evolutionary Algorithm (under review)
 
 <p align="center">
-<img src="PIDEA.png" width="600px" height="350px" />
+<img src="PIDEA.png" width="1500px" height="400px" />
 </p>
 
 ### keyword
@@ -22,7 +22,7 @@ The results validate its ability to generate near-optimal scheduling solutions t
 
 
 <p align="center">
-<img src="flowchart.png" width="1200px" height="200px" />
+<img src="flowchart.png" width="1100px" height="800px" />
 </p>
 
 ## Getting started
