@@ -3,7 +3,7 @@ Parallel Island Differential Evolutionary Algorithm (PIDEA) for multi-satellite 
 
 
 ### :bulb: (TAES2025) Multi-Satellite Scheduling for Stereo Tracking of Moving Targets via Parallel Island Differential Evolutionary Algorithm 
-### [\[Paper Link\]](https://ieeexplore.ieee.org/document/11192053)
+### [\[Paper Link\]](https://ieeexplore.ieee.org/document/11192053) Accepted by IEEE Transactions on Aerospace and Electronic Systems
 
 <p align="center">
 <img src="PIDEA.png" width="1500px" height="350px" />
